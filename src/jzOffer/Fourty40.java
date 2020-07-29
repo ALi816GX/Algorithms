@@ -1,4 +1,4 @@
-package 剑指offer;
+package jzOffer;
 
 import java.util.ArrayList;
 
